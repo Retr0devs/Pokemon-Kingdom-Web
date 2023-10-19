@@ -14,7 +14,7 @@ export function BestBusiness() {
                 <div>
                     <Reveal>
                         <h2 className="text-5xl font-semibold">
-                            <span className="block degradedBlue bg-blueLight">Caracteristicas cuales</span>
+                            <span className="block degradedBlue bg-textos">Caracteristicas cuales</span>
                             nos hacen <br />
                             únicos
                         </h2>
@@ -24,7 +24,7 @@ export function BestBusiness() {
                     </Reveal>
                     <Reveal>
                         <div className="my-8">
-                            <Link href="#clients" className="px-4 py-3 rounded-md bg-botonJoin">Elige tu plan</Link>
+                            <Link href="#tarjetas" className="px-4 py-3 rounded-md bg-botonJoin">Elige tu plan</Link>
                         </div>
                     </Reveal>
                 </div>

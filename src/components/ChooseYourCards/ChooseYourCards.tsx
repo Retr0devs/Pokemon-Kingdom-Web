@@ -16,7 +16,7 @@ export function ChooseYourCards() {
             <div className="block max-w-5xl mx-auto md:grid md:grid-cols-2">
                 <Reveal>
                     <h2 className="text-5xl font-semibold">Tenemos diferentes bots
-                        <span className="block degradedBlue bg-blueLight">desliza para ver lo que ofrecemos</span>
+                        <span className="block degradedBlue bg-textos">desliza para ver lo que ofrecemos</span>
                     </h2>
                 </Reveal>
                 <div className="px-5">

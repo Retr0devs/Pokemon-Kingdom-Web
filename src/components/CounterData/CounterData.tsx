@@ -12,7 +12,7 @@ export function CounterData() {
                         +
                         <CountUp start={startNumber} end={endNumber} duration={1.5} enableScrollSpy />
                         {" "}
-                        <span className="degradedBlue bg-blueLight">{text}</span>
+                        <span className="degradedBlue bg-mc">{text}</span>
                     </div>
                 ))}
             </div>

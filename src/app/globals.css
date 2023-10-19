@@ -12,7 +12,7 @@ body {
 }
 
 ::selection {
-  background: #f84741;
+  background: #f88a41;
 }
 
 .degradedBlue {
@@ -27,7 +27,7 @@ body {
 }
 
 .swiper-pagination-bullet-active {
-  background: rgb(255, 62, 62) !important;
+  background: rgb(255, 149, 62) !important;
 }
 
 .slider-horizontal {

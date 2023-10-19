@@ -1,4 +1,4 @@
-import { RiFacebookCircleFill, RiInstagramLine, RiLinkedinBoxFill, RiTwitterXFill } from "react-icons/ri";
+import { RiTwitterXFill, RiGithubLine, RiInstagramLine, RiDiscordFill, RiYoutubeFill } from "react-icons/ri";
 
 export const footerData = [
   {
@@ -7,34 +7,34 @@ export const footerData = [
     links: [
       {
         id: 1,
-        name: "Contenido",
+        name: "Postularte a Staff",
         link: "#",
       },
       {
         id: 2,
-        name: "Como trabajamos",
+        name: "Soporte Discord",
         link: "#",
       },
       {
         id: 3,
-        name: "Crear",
+        name: "Enviar Sugerencias",
         link: "#",
       },
       {
         id: 4,
-        name: "Explorar",
+        name: "Charla Con Nosotros",
         link: "#",
       },
       {
         id: 5,
-        name: "Términos y condiciones",
+        name: "Términos y Condiciones",
         link: "#",
       },
     ],
   },
   {
     id: 2,
-    title: "Comunidad",
+    title: "Guía Web",
     links: [
       {
         id: 1,
@@ -65,16 +65,26 @@ export const footerData = [
   },
   {
     id: 3,
-    title: "Partner",
+    title: "Fundadores",
     links: [
       {
         id: 1,
-        name: "Nuestro partner",
+        name: "Zer0",
         link: "#",
       },
       {
         id: 2,
-        name: "Hazte partner",
+        name: "Bartolomiu",
+        link: "#",
+      },
+      {
+        id: 3,
+        name: "OfficialCrow",
+        link: "#",
+      },
+      {
+        id: 4,
+        name: "Ak",
         link: "#",
       },
     ],
@@ -84,22 +94,27 @@ export const footerData = [
 export const footerSocialNetworks = [
   {
     id: 1,
-    icon: <RiInstagramLine />,
+    icon: <RiDiscordFill />,
     link: "#"
   },
   {
     id: 2,
-    icon: <RiFacebookCircleFill />,
-    link: "#"
-  },
-  {
-    id: 3,
     icon: <RiTwitterXFill />,
     link: "#"
   },
   {
+    id: 3,
+    icon: <RiInstagramLine />,
+    link: "#"
+  },
+  {
     id: 4,
-    icon: <RiLinkedinBoxFill />,
+    icon: <RiYoutubeFill />,
+    link: "#"
+  },
+  {
+    id: 5,
+    icon: <RiGithubLine />,
     link: "#"
   },
 ];

@@ -15,10 +15,9 @@ export function FirstBlock() {
                     <Reveal>
                         <h1 className="text-5xl font-semibold">
                             PokémonKingdom
-                            <span className="block degradedBlue bg-blueLight">
-                                official
+                            <span className="block degradedBlue bg-textos">
+                                oficial web
                             </span>
-                            web
                         </h1>
                     </Reveal>
                     <Reveal>
@@ -31,7 +30,7 @@ export function FirstBlock() {
                     </Reveal>
                 </div>
                 <MotionTransition className="flex items-center justify-center">
-                    <Image src="/assets/cards-block.png" alt="Card" width={450} height={450} className="h-auto w-72 md:w-full" />
+                    <Image src="/assets/logo.png" alt="Card" width={450} height={450} className="h-auto w-72 md:w-full" />
                 </MotionTransition>
             </div>
         </div>
