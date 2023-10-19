@@ -14,20 +14,17 @@ export function BestBusiness() {
                 <div>
                     <Reveal>
                         <h2 className="text-5xl font-semibold">
-                            <span className="block degradedBlue bg-blueLight">Tú haces el negocio</span>
-                            nosotros manejamos <br />
-                            el dinero
+                            <span className="block degradedBlue bg-blueLight">Caracteristicas cuales</span>
+                            nos hacen <br />
+                            únicos
                         </h2>
                     </Reveal>
                     <Reveal>
-                        <p className="max-w-md mt-10">Con la tarjeta de crédito adecuada, puede mejorar su vida
-                            financiera generando crédito, obteniendo recompensas y
-                            ahorrando dinero. Pero con cientos de tarjetas de crédito en
-                            el mercado.</p>
+                        <p className="max-w-md mt-10">Pokémon Kingdom es más que un servidor, es una comunidad con mucho desarrollo, esfuerzo tiempo y dedicación por parte administrativa y moderativa.</p>
                     </Reveal>
                     <Reveal>
                         <div className="my-8">
-                            <Link href="#clients" className="px-4 py-3 rounded-md bg-blueRadial">Elige tu plan</Link>
+                            <Link href="#clients" className="px-4 py-3 rounded-md bg-botonJoin">Elige tu plan</Link>
                         </div>
                     </Reveal>
                 </div>

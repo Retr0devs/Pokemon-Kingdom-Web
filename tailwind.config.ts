@@ -10,16 +10,18 @@ const config: Config = {
     extend: {
       colors: {
         primary: "#fff",
-        primaryDark: "rgba(255,255,255, 0.7);",
-        secondary: "#6DE4E8",
+        primaryDark: "rgba(255,255,255, 0.2);",
+        secondary: "#FB6F47",
       },
       backgroundImage: {
+        botonJoin:
+          "linear-gradient(20deg, #FC2D2D 0%, rgba(249, 2, 2, 0.9) 95.83%)",
         radialBlack:
-          "linear-gradient(225.95deg, #ffffff 0%, #6d6d6d 0%, #11101d 91.61%)",
+          "linear-gradient(225.95deg, #ffffff 0%, #FB6F47 0%, #FB6F47 91.61%)",
         blueRadial:
-          "linear-gradient(90deg, #6de4e8 0%, rgba(0, 178, 218, 0.6) 95.83%)",
+          "linear-gradient(20deg, #FB6F47 0%, rgba(251, 74, 71, 0.9) 95.83%)",
         blueLight:
-          "linear-gradient(90deg, #6de4e8 0%, rgba(255, 255, 255, 0.86) 95.83% )",
+          "linear-gradient(90deg, #F73535 0%, rgba(248, 48, 48, 0.86) 100% )",
       },
       boxShadow: {
         dark: "0px 20px 100px -10px rgba(66, 71, 91, 0.1)",

@@ -4,22 +4,22 @@ export const dataFeaturesBusiness: BestBusinessData = [
   {
     id: 1,
     icon: "rewards",
-    title: "Recompensas",
+    title: "Atención 24 / 7",
     description:
-      "Las mejores tarjetas de crédito ofrecen algunas combinaciones tentadoras de promociones y premios.",
+      "Tenemos staffs de diferentes países para que podáis ser atendidos en diferentes zonas horarias.",
   },
   {
     id: 2,
     icon: "safe",
-    title: "100% Seguro",
+    title: "Bots Personalizados",
     description:
-      "Tomamos medidas proactivas para asegurarnos de que su información  y sus transacciones estén seguras.",
+      "Para una experiencia personalizada, Pokémon Kingdom esta trabajando diariamente para obtener la mayor sencillez.",
   },
   {
     id: 3,
     icon: "send",
-    title: "Envíos gratis",
+    title: "Libre de toxicidad",
     description:
-      "Una tarjeta de crédito con transferencia de saldo puede ahorrarle mucho dinero en intereses.",
+      "Nuestro objetivo va a ser siempre evitar las peleas que ocurran en el servidor y tratar de solucionarlas lo antes posible",
   },
 ];

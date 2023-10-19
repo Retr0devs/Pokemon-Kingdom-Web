@@ -1,20 +1,20 @@
 export const dataCounter = [
   {
     id: 1,
-    startNumber: 500,
-    endNumber: 3800,
-    text: "usuarios activos",
+    startNumber: 0,
+    endNumber: 3150,
+    text: "miembros",
   },
   {
     id: 2,
-    startNumber: 0,
-    endNumber: 230,
-    text: "empleados",
+    startNumber: 700,
+    endNumber: 15,
+    text: "staffs",
   },
   {
     id: 3,
-    startNumber: 600,
-    endNumber: 1800,
-    text: "millones invertidos",
+    startNumber: 0,
+    endNumber: 400,
+    text: "comunicadores",
   },
 ];

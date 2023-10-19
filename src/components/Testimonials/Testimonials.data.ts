@@ -1,16 +1,16 @@
 export const dataTestimonials = [
   {
     id: 1,
-    name: "Juan Recio",
-    work: "Founder",
-    testimonial: "Muy buena landing page SPA sobre como hacer un banco",
+    name: "Bartolomiu",
+    work: "Fundador - Dev",
+    testimonial: "Texto de ejemplo",
     image: "/assets/profile1.png",
   },
   {
     id: 2,
-    name: "Laura García",
-    work: "Founder",
-    testimonial: "Muy buena landing page SPA sobre como hacer un banco",
+    name: "OfficialCrow",
+    work: "Fundador",
+    testimonial: "Texto de ejemplo",
     image: "/assets/profile2.png",
   },
   {
@@ -36,6 +36,34 @@ export const dataTestimonials = [
   },
   {
     id: 6,
+    name: "Raúl Vidal",
+    work: "Founder",
+    testimonial: "Muy buena landing page SPA sobre como hacer un banco",
+    image: "/assets/profile3.png",
+  },
+  {
+    id: 7,
+    name: "Raúl Vidal",
+    work: "Founder",
+    testimonial: "Muy buena landing page SPA sobre como hacer un banco",
+    image: "/assets/profile3.png",
+  },
+  {
+    id: 8,
+    name: "Raúl Vidal",
+    work: "Founder",
+    testimonial: "Muy buena landing page SPA sobre como hacer un banco",
+    image: "/assets/profile3.png",
+  },
+  {
+    id: 9,
+    name: "Raúl Vidal",
+    work: "Founder",
+    testimonial: "Muy buena landing page SPA sobre como hacer un banco",
+    image: "/assets/profile3.png",
+  },
+  {
+    id: 10,
     name: "Raúl Vidal",
     work: "Founder",
     testimonial: "Muy buena landing page SPA sobre como hacer un banco",

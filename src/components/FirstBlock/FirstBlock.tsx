@@ -8,28 +8,25 @@ import { Reveal } from "../Reveal"
 
 export function FirstBlock() {
     return (
-        <div className="relative p-4 md:py-40">
+        <div className="relative p-2 md:py-85">
             <BackgroundRadialRight />
             <div className="grid max-w-5xl mx-auto md:grid-cols-2">
                 <div>
                     <Reveal>
                         <h1 className="text-5xl font-semibold">
-                            El nuevo
+                            PokémonKingdom
                             <span className="block degradedBlue bg-blueLight">
-                                banco digital
+                                official
                             </span>
-                            para todos
+                            web
                         </h1>
                     </Reveal>
                     <Reveal>
-                        <p className="max-w-md mt-10">Nuestro equipo de expertos utiliza una metodología
-                            para identificar las tarjetas de crédito que probablemente
-                            se ajusten a sus necesidades. Examinamos tasas
-                            porcentuales anuales, tarifas anuales.</p>
+                        <p className="max-w-md mt-10">Bienvenidos a la página oficial de Pokémon Kingdom, uno de los servidores más grandes hispanos con mucha actividad y actividades para todo tipo de usuarios, desde juegos con bots hasta eventos semanales.</p>
                     </Reveal>
                     <Reveal>
                         <div className="my-8">
-                            <Link href="#clients" className="px-4 py-3 rounded-md bg-blueRadial">Empieza ahora</Link>
+                            <Link href="../../../parte.html" className="px-4 py-3 rounded-md bg-botonJoin">Únete ahora</Link>
                         </div>
                     </Reveal>
                 </div>
